@@ -1,4 +1,4 @@
-# CRUD de AngularJS com Jersey - Fornecedores
+# CRUD RESTful de AngularJS com Jersey - Fornecedores
 
 ## Backend: JEE com Jersey 
 
